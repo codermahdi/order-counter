@@ -1,0 +1,6 @@
+#orderForm{
+    gap: 10px;
+}
+#orderForm my-3{
+    flex: 1;
+}
